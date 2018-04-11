@@ -1,2 +1,2 @@
 # kaggle_test
-study 
+study the code in kaggle
